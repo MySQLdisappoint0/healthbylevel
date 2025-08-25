@@ -1,3 +1,4 @@
+[**中文**](README.md)
 # Introduction
 This is a Minecraft Forge mod that grants players increased maximum health when they reach higher experience levels.
 
