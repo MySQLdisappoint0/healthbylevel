@@ -1,3 +1,4 @@
+[**English**](README_EN.md)
 # 简介
 这是一个Minecraft Forge Mod，当玩家抵达更高的经验等级是可以为其增加对应的最大生命值
 # 支持的版本
